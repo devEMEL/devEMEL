@@ -5,5 +5,5 @@
 - 🤔 I am open to learn new technologies, open to collaborations. I am also open to jobs as I am currently unemployed.
 - 🤔 I have experience in front-end development.
 - 🤔 I am proficient in HTML, CSS, JS and React.js 
-- 👯 I am currently learning pyteal and Reach for algorand development.
+- 👯 I am currently learning pyteal for algorand development.
 
