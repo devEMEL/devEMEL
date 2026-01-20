@@ -1,4 +1,4 @@
-# Hi, I'm Henry 👋
+# Hi, I'm Dominic 👋
 
 I am a Web3 Developer focused on building at the frontier of **Privacy (FHE)** and **Capital Efficient DeFi (Uniswap v4)**.
 
@@ -16,11 +16,3 @@ I am a Web3 Developer focused on building at the frontier of **Privacy (FHE)** a
 * Utilized a modified `PositionManager.sol` to capture creator revenue and direct it into active AMM liquidity.
 * Built a **Synthetix-inspired distribution engine** that tracks pool fees and reallocates them proportionally to creators based on their revenue contribution.
 
----
-
-### 🛠️ Tech Stack
-* **Languages:** Solidity, TypeScript, Rust
-* **Privacy:** Zama FHE, fhEVM
-* **DeFi:** Uniswap v4 Hooks, Liquidity Management, Yield Accounting
-* **Tools:** Foundry, Hardhat, Ethers.js
-* 
