@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Henry 👋
 
-<!--
-**devEMEL/devEMEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web3 Developer focused on building at the frontier of **Privacy (FHE)** and **Capital Efficient DeFi (Uniswap v4)**.
 
-Here are some ideas to get you started:
+### 🏆 Key Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔐 Zama Monthly Developer Program — Winner (August)
+**Project: [EmelMarket](https://github.com/devEMEL/emel-market-main)**
+* Developed a **Confidential NFT Auction Marketplace** using Zama's Fully Homomorphic Encryption (fhEVM) on Sepolia.
+* Implemented a "sealed-bid" logic where all bid amounts remain encrypted on-chain, ensuring 100% privacy until the auction settlement.
+* Solved the transparency issue of public blockchains for high-value asset auctions.
+
+#### 🦄 UHI5 Hookathon — Co-Winner
+**Project: Flaunch-lazy-lp**
+* Contributed to a protocol designed to automate NFT-based revenue streams into **Uniswap v4 Liquidity Pools**.
+* Utilized a modified `PositionManager.sol` to capture creator revenue and direct it into active AMM liquidity.
+* Built a **Synthetix-inspired distribution engine** that tracks pool fees and reallocates them proportionally to creators based on their revenue contribution.
+
+---
+
+### 🛠️ Tech Stack
+* **Languages:** Solidity, TypeScript, Rust
+* **Privacy:** Zama FHE, fhEVM
+* **DeFi:** Uniswap v4 Hooks, Liquidity Management, Yield Accounting
+* **Tools:** Foundry, Hardhat, Ethers.js
+* 
